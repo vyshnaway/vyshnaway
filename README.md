@@ -6,9 +6,9 @@ I like turtles and their shell.
 
 An editor-native environment for authoring, previewing, and debugging UI systems for the web, independent of JavaScript frameworks.
 
+- Organization: https://github.com/orgs/alchira
 - Source Code: https://github.com/vyshnaway/alchira
 - Related Repositories: https://github.com/orgs/alchira/repositories
-- Organization: https://github.com/orgs/alchira
 - Install Package: https://www.npmjs.com/package/alchira
 - VS Code Plugin: https://marketplace.visualstudio.com/items?itemName=yshelldev.alchira
 
